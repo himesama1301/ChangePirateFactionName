@@ -1,4 +1,5 @@
 # ChangePirateFactionName
+
 RimWorld MOD
 
 日本語専用
@@ -24,3 +25,10 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\ChangePirateFactionN
 ChangePirateFactionName\Languages\Japanese\Strings\Words\Nouns\CustomPirateFactionName.txt
 
 UTF-8(BOM付)で動作確認。
+
+
+## License
+
+These codes are licensed under CC0.
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png "CC0")](http://creativecommons.org/publicdomain/zero/1.0/deed.ja)
